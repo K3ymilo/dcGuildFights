@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dcGuildFights:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dcGuildFights_jar</output-path>
+    <root id="archive" name="dcGuildFights.jar">
+      <element id="module-output" name="dcGuildFights" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/do eclipse/server.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/do eclipse/spigot-1.16.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/do eclipse/craftbukkit-1.16.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/do eclipse/craftbukkit-1.8.8-R0.1-SNAPSHOT-latest.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/do eclipse/paper-1.16.5-788.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/do eclipse/gildie.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

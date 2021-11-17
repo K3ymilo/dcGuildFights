@@ -1,0 +1,12 @@
+name: DC_GuildFights
+main: pl.dreamcode.guildfights.Main
+version: 1.0-SNAPSHOT
+author: Kamilo
+api-version: 1.16
+depend:
+  - FunnyGuilds
+
+commands:
+  walka:
+
+

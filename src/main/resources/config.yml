@@ -1,0 +1,18 @@
+#--------------------------------
+#/\ DC_GuildFights by Keymilo /\
+#--------------------------------
+
+# DC_GuildFights by Keymilo
+# https://tipply.pl/u/kamilo1337
+
+# ZAINSTALUJ PLUGIN NA SERWERZE SPIGOT
+
+# Wersja Pluginu: 1.16
+# Java: 8
+
+
+# Wiadomosci oraz odpowiedzi:
+messages:
+  cooldown: "&4Blad: &cMusisz odczekac chwile przed nastepnym uzyciem tej komendy!"
+  noguild: "&4Blad: &cNie posiadasz gildii"
+  nopermission: "&4Blad: &cNie jestes Zastepca ani Liderem Gildii!"
