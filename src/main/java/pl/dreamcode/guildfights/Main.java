@@ -11,7 +11,7 @@ import pl.dreamcode.guildfights.commands.FightCommand;
 
 public class Main extends JavaPlugin {
 
-    private static Main plugin;
+    private final static Main plugin;
 
     public void onEnable() {
         PluginDescriptionFile pluginDescriptionFile = getDescription();
@@ -40,7 +40,6 @@ public class Main extends JavaPlugin {
         getConsoleSender().sendMessage(" >");
         getConsoleSender().sendMessage(" > Twoj serwer posiada wazna licencje do pluginu");
         getConsoleSender().sendMessage(" > -> DC_GuildFights v1.0-SNAPSHOT");
-        saveConfig();
         (plugin = this).saveDefaultConfig();
         saveConfig();
         registerCommands();
